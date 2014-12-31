@@ -3,4 +3,10 @@
 
 nav p {
   width: 200px;
+  float: left;
+}
+
+nav a {
+    width: 35px;
+    height: 25px;
 }
