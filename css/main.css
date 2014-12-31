@@ -4,9 +4,11 @@
 nav p {
   width: 200px;
   float: left;
+  background-color: red;
 }
 
 nav a {
     width: 35px;
     height: 25px;
+    background-color: blue;
 }
