@@ -1,14 +1,59 @@
-/* font-family: 'Ubuntu', sans-serif; 
-    font-family: 'Open Sans', sans-serif; */
-
-nav p {
-  width: 200px;
-  float: left;
-  background-color: red;
+html {
+  background: url("fresh_snow.png");
 }
 
-nav a {
-    width: 35px;
-    height: 25px;
-    background-color: blue;
+body {
+  font-family: 'Roboto', sans-serif;
 }
+
+.title {
+  background-color: #B0BEC5;
+  text-align: center;
+  padding-bottom: 9px;
+}
+
+.title h1 {
+  font-size: 3.5em;
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  margin-top: 50px;
+  height: 500px;
+  text-align: center;
+}
+
+.content img {
+  padding-top: 45px;
+}
+
+.meter {
+  border: 2px solid gainsboro;
+  border-radius: 3px;
+  background-color: #fcfcfc;
+  width: 300px;
+  height: 35px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.meter span {
+  height: inherit;
+  box-shadow: 0 5px -5px #99 inset;
+  border-radius: 1px;
+  display: block;
+  text-align: center;
+  text-indent: -9999;
+}
+
+.meter p {
+  margin: 0;
+  padding: 0;
+  line-height: 35px;
+}
+
+.closed {
+  background-color: #F44336;
+}
+
