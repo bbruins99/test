@@ -62,6 +62,10 @@ body {
   font-weight: 700px;
 }
 
+.des {
+  float: left;
+}
+
 .closed {
   background-color: #F44336;
 }
