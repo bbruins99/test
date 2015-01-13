@@ -63,3 +63,7 @@ meter::-webkit-meter-even-less-good-value {
     background: #CC4600; /* Red */
     border-radius: 3px;
 }
+
+.idn {
+  font-size: 1.4em;
+}
