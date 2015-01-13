@@ -50,17 +50,17 @@ meter::-webkit-meter-bar {
 }
 
 meter::-webkit-meter-optimum-value {
-    background: #86CC00; /* Green */
+    background: #43A047; /* Green */
     border-radius: 3px;
 }
 
 meter::-webkit-meter-suboptimum-value {
-    background: #FFDB1A; /* Yellow */
+    background: #FDD835; /* Yellow */
     border-radius: 3px;
 }
 
 meter::-webkit-meter-even-less-good-value {
-    background: #CC4600; /* Red */
+    background: #E53935; /* Red */
     border-radius: 3px;
 }
 
