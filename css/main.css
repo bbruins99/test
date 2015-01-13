@@ -51,7 +51,7 @@ meter {
   height: 55px;
   width: 350px;
   border: 2px solid #424242;
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 meter::-webkit-meter-bar {
