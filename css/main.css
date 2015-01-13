@@ -35,38 +35,7 @@ body {
   padding-top: 45px;
 }
 
-.meter {
-  border: 2px solid gainsboro;
-  border-radius: 3px;
-  background-color: #fcfcfc;
-  width: 300px;
-  height: 35px;
-  margin: 0 auto;
-  text-align: center;
+meter {
+  height: 55px;
+  width: 350px;
 }
-
-.meter span {
-  height: inherit;
-  box-shadow: 0 5px -5px #99 inset;
-  border-radius: 1px;
-  display: block;
-  text-align: center;
-  text-indent: -9999;
-}
-
-.meter p {
-  margin: 0;
-  padding: 0;
-  line-height: 35px;
-  font-size: 1.4em;
-  font-weight: 700px;
-}
-
-.des {
-  float: left;
-}
-
-.closed {
-  background-color: #F44336;
-}
-
