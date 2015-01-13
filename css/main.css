@@ -54,7 +54,7 @@ meter {
 
 meter::-webkit-meter-bar {
     background: #EEE;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.6) inset;
+    box-shadow: 0 4px 6px rgba(0,0.2,0,0.2) inset;
     border-radius: 3px;
 }
 
