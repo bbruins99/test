@@ -51,28 +51,28 @@ meter {
   height: 55px;
   width: 350px;
   border: 2px solid #424242;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 
 meter::-webkit-meter-bar {
     background: #EEE;
     box-shadow: 0 4px 6px rgba(0,0,0,0.2) inset;
-    border-radius: 3px;
+    border-radius: 2px;
 }
 
 meter::-webkit-meter-optimum-value {
     background: #43A047; /* Green */
-    border-radius: 3px;
+    border-radius: 2px;
 }
 
 meter::-webkit-meter-suboptimum-value {
     background: #FDD835; /* Yellow */
-    border-radius: 3px;
+    border-radius: 2px;
 }
 
 meter::-webkit-meter-even-less-good-value {
     background: #E53935; /* Red */
-    border-radius: 3px;
+    border-radius: 2px;
 }
 
 .idn {
