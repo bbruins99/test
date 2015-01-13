@@ -36,6 +36,9 @@ body {
 }
 
 meter {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
   height: 55px;
-  width: 350px
+  width: 350px;
 }
