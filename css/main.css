@@ -59,7 +59,7 @@ meter::-webkit-meter-bar {
 }
 
 meter::-webkit-meter-optimum-value {
-    background: #43A047; /* Green */
+    background: #E53935; /* Red */
     border-radius: 2px;
 }
 
@@ -69,7 +69,7 @@ meter::-webkit-meter-suboptimum-value {
 }
 
 meter::-webkit-meter-even-less-good-value {
-    background: #E53935; /* Red */
+    background: #43A047; /* Green */
     border-radius: 2px;
 }
 
