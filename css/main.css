@@ -78,3 +78,7 @@ meter::-webkit-meter-even-less-good-value {
   font-size: 2em;
   font-weight: 700;
 }
+
+.met {
+  margin: 0 auto;
+}
